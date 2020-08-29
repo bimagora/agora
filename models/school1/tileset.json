@@ -43,7 +43,7 @@
 				},
 				"geometricError": 3.8750476837158205,
 				"content": {
-					"uri": "school1_1_0.ximb"
+					"uri": "https://cdn.jsdelivr.net/gh/bimagora/agora@master/models/school1/school1_1_0.ximb"
 				}
 			},
 			{
@@ -65,7 +65,7 @@
 				},
 				"geometricError": 5.329236221313477,
 				"content": {
-					"uri": "school1_1_1.ximb"
+					"uri": "https://cdn.jsdelivr.net/gh/bimagora/agora@master/models/school1/school1_1_1.ximb"
 				}
 			},
 			{
@@ -87,7 +87,7 @@
 				},
 				"geometricError": 0.5119999885559082,
 				"content": {
-					"uri": "school1_1_2.ximb"
+					"uri": "https://cdn.jsdelivr.net/gh/bimagora/agora@master/models/school1/school1_1_2.ximb"
 				}
 			},
 			{
@@ -109,7 +109,7 @@
 				},
 				"geometricError": 4.044379425048828,
 				"content": {
-					"uri": "school1_1_3.ximb"
+					"uri": "https://cdn.jsdelivr.net/gh/bimagora/agora@master/models/school1/school1_1_3.ximb"
 				}
 			},
 			{
@@ -131,7 +131,7 @@
 				},
 				"geometricError": 4.840181350708008,
 				"content": {
-					"uri": "school1_1_4.ximb"
+					"uri": "https://cdn.jsdelivr.net/gh/bimagora/agora@master/models/school1/school1_1_4.ximb"
 				}
 			},
 			{
@@ -153,7 +153,7 @@
 				},
 				"geometricError": 1.9679296493530274,
 				"content": {
-					"uri": "school1_1_5.ximb"
+					"uri": "https://cdn.jsdelivr.net/gh/bimagora/agora@master/models/school1/school1_1_5.ximb"
 				}
 			},
 			{
@@ -175,7 +175,7 @@
 				},
 				"geometricError": 0.7049999713897706,
 				"content": {
-					"uri": "school1_1_6.ximb"
+					"uri": "https://cdn.jsdelivr.net/gh/bimagora/agora@master/models/school1/school1_1_6.ximb"
 				}
 			},
 			{
@@ -197,7 +197,7 @@
 				},
 				"geometricError": 2.064097023010254,
 				"content": {
-					"uri": "school1_1_7.ximb"
+					"uri": "https://cdn.jsdelivr.net/gh/bimagora/agora@master/models/school1/school1_1_7.ximb"
 				}
 			},
 			{
@@ -219,7 +219,7 @@
 				},
 				"geometricError": 2.426760673522949,
 				"content": {
-					"uri": "school1_1_8.ximb"
+					"uri": "https://cdn.jsdelivr.net/gh/bimagora/agora@master/models/school1/school1_1_8.ximb"
 				}
 			}
 		]
